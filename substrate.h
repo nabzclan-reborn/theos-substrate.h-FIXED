@@ -2,6 +2,11 @@
  * Copyright (C) 2008-2019  Jay Freeman (saurik)
 */
 
+/* Fixed for theos on macos
+ * by nabzclan - website: nabzclan.vip
+*/
+
+
 /*
  *        Redistribution and use in source and binary
  * forms, with or without modification, are permitted
